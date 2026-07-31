@@ -15,4 +15,4 @@ function isPalindrome(str) {
 }
 
 console.log(isPalindrome("madam")); // true
-console.log(isPalindrome("hello")); // false
+console.log(isPalindrome("hello")); // falses
