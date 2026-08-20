@@ -1,7 +1,4 @@
 //Move Zeroes
-
-
-
 function moveZeroes(arr) {
     let left = 0;
 
