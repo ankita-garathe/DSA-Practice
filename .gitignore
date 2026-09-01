@@ -1,0 +1,11 @@
+# Ignore folder
+/MyPracticecd/
+
+# Ignore node_modules
+/node_modules/
+
+# Ignore environment files
+.env
+
+# Ignore logs
+*.log
